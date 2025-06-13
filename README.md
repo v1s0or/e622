@@ -8,4 +8,5 @@ i said dont ask but its just a video/image browser kinda better at viewing stuff
 
 # about
 just a video/photo thing me and a friend made with some memes in it to test it out also has some
-image picker it gets from random to show in the start of the web site 
+image picker it gets from random to show in the start of the web site and i also learnt a little css
+on the way
